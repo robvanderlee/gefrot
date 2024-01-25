@@ -1,0 +1,24 @@
+_id: req_f0a9172d6003466380306071ed7ca2f8
+type: Request
+parentId: wrk_8a7f752905a741859f0b044f86c6e408
+modified: 1706189418338
+created: 1706189409053
+url: ""
+name: meer geklooi
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/8.6.0
+authentication: {}
+metaSortKey: -1706189409053
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
